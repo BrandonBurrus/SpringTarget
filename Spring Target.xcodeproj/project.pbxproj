@@ -54,12 +54,12 @@
 		CA11DA622234AE3C007B6EF6 /* Spring Target */ = {
 			isa = PBXGroup;
 			children = (
+				CA11DA6A2234AE3E007B6EF6 /* Assets.xcassets */,
+				CA11DA6F2234AE3E007B6EF6 /* Info.plist */,
+				CA11DA6C2234AE3E007B6EF6 /* LaunchScreen.storyboard */,
+				CA11DA672234AE3D007B6EF6 /* Main.storyboard */,
 				CA11DA632234AE3D007B6EF6 /* AppDelegate.swift */,
 				CA11DA652234AE3D007B6EF6 /* ViewController.swift */,
-				CA11DA672234AE3D007B6EF6 /* Main.storyboard */,
-				CA11DA6A2234AE3E007B6EF6 /* Assets.xcassets */,
-				CA11DA6C2234AE3E007B6EF6 /* LaunchScreen.storyboard */,
-				CA11DA6F2234AE3E007B6EF6 /* Info.plist */,
 			);
 			path = "Spring Target";
 			sourceTree = "<group>";
